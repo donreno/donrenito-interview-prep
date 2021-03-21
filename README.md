@@ -11,6 +11,8 @@ Notes and snippets to get around with bitwise operators [here](bitwise.md).
 
 ## Data structures
 
-|   Struct  | Ref                  |
-| ---       | ---                  |
-| Tree      | [trees.md](trees.md) |
+|   Struct  | Ref                    |
+| ---       | ---                    |
+| Trees     | [trees.md](trees.md)   |
+| Tries     | [tries.md](trees.md)   |
+| Graphs    | [graphs.md](graphs.md) |

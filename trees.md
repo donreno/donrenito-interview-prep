@@ -19,5 +19,8 @@ Notes on trees
 ## Binary Heaps (Or Min and Max heaps)
 A Binary Heap or also known as Heap is a complete binary tree where every node is *smaller* than it's childs (Min Heap), the opposite of this would be a Max Heap where every node is *bigger* than it's childs.
 It has 2 operations insert element and extract top element.
+
 - Insert: will insert element at bottom of heap and will heapify it up until it reaches a position where the heap remains sorted.
+    ![Heap insert](heapify_insert.png) 
 - Extract: will get and remove the top element, then heapifying up corresponding child to take the place at the top.
+    ![Extract from heap](extract_from_heap.png) 
