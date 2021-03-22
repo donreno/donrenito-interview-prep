@@ -16,3 +16,7 @@ Notes and snippets to get around with bitwise operators [here](bitwise.md).
 | Trees     | [trees.md](trees.md)   |
 | Tries     | [tries.md](trees.md)   |
 | Graphs    | [graphs.md](graphs.md) |
+
+## System Design
+
+- [Common Terms](system_design_terms.md)
