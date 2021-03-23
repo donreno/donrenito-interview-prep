@@ -338,4 +338,4 @@ Process through which a client and server communicating through https exchange e
 1. Client sends client hello to server.
 2. Server responds with server hello and the SSL Cert (which contains public key).
 3. Client verifies that cert was issued by a Certificate Authority and sends a premaster secret.
-4. Then the client and the server uses client hello, server hello and premaster secret along with public key and private keys to generate the same symetric encryption.
+4. Then the client and the server uses client hello, server hello and premaster secret along with public key and private keys to generate the same symetric encryption, these are session keys to encrypt and decrypt from both sides.
