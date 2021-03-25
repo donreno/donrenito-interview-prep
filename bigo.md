@@ -12,7 +12,7 @@ Big O notes and cheat sheet
  - Buble Sort: time `O(n^2)`
  - Merge Sort: time `O(n*log n)` (average)
  - Quick Sort: time `O(n*log n)` (average picking a good pivot)
- - Finding on Hashtable `O(n)` (If there are zero or minimal collisions)
+ - Retriving an element on a Hashtable `O(1)` (If there are zero or minimal collisions)
 
 ## Considerations when using hashtables in algorithms
 If you are using a hashtable on your algorithms to make them "faster" remember that there is a trade of for space, so normally you will be adding O(n) space complexity when using it.
