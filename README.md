@@ -14,7 +14,7 @@ Notes and snippets to get around with bitwise operators [here](bitwise.md).
 |   Struct  | Ref                    |
 | ---       | ---                    |
 | Trees     | [trees.md](trees.md)   |
-| Tries     | [tries.md](trees.md)   |
+| Tries     | [tries.md](tries.md)   |
 | Graphs    | [graphs.md](graphs.md) |
 
 ## System Design
